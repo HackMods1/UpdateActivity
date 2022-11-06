@@ -12,7 +12,7 @@
 "Download_Link" : "http://pastebin.com/raw/AJF6gWZs",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
-"isCancelable" : "true",
+"isCancelable" : "false",
 
 "More_Button_Text_Color" : "#FF1B5AAC",
 "Website_Link" : "https://pastebin.com/raw/AJF6gWZs",
