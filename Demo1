@@ -9,7 +9,7 @@
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"UPDATE" : "https://www.mediafire.com/file/8lbsrg2pqj6v6bv/ViMusic_0.4.3.apk/file",
+"Download_Link" : "https://www.mediafire.com/file/8lbsrg2pqj6v6bv/ViMusic_0.4.3.apk/file",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "false",
