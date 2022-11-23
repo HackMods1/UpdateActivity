@@ -1,5 +1,5 @@
    {
-"New_Version": "1.2.3.4",
+"New_Version": "848",
 
 "Dialog_Title": "Update Found",
 "Title_Color" : "#FF000000",
@@ -9,7 +9,7 @@
 
 "Okay_Button_Text" : "Download",
 "Okay_Button_Text_Color" : "#FF0B8B42",
-"Download_Link" : "https://cutt.ly/PMSVxX5",
+"Download_Link" : "https://cutt.ly/5M3aDTj",
 
 "Cancel_Button_Text_Color" : "#FFF44336",
 "isCancelable" : "false",
